@@ -14,3 +14,5 @@ submission will need to be `approved before your first PR is merged
 The code in your PR should not duplicate with your classmates'.  Once
 duplication is found, the latter submitter should modify the code.  One way to
 avoid the hassle is to submit as early as possible.
+打卡，到此一遊
+什麼時候要出去玩
